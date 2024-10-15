@@ -1,0 +1,44 @@
+body{
+	background-image: url("../img/goth.jpg");
+	margin: 0 auto;
+	padding: 0 ;
+	background-attachment:fixed ;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#header a{
+	text-align: right	;
+	color: white;
+}
+#header a:hover{
+	color: red;
+}
+#nav{
+	background-color: black;
+	text-align: center;
+}
+#nav a{
+	padding: 0px 40px;
+ 	text-align: center;
+	font-size: 30px;
+	font-weight: 200px;
+	color: skyblue;
+	text-shadow: 0 0 10px orange, 0 0 20px orange, 0 0 40px orange, 0 0 80px orange;
+ }
+ #nav a:hover{
+ 	background-color:darkred;
+ 
+}
+ 
+video{
+	height: 300px;
+	width: 300px;
+
+}
+
+ #footer{
+ 	background-color: black;
+ }
+#footer p{
+	color: white;
+}
